@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20693836566",
+    "project_id": "echildren-2d85c",
+    "storage_bucket": "echildren-2d85c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20693836566:android:abd9ae9f6a3c2c68cca637",
+        "android_client_info": {
+          "package_name": "com.example.echildren"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20693836566-k3ub38bc4ealuups59hba0nde9j60n3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVErjDfvwGkTV_rQmxxw0EZoS-4j2iJAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20693836566-k3ub38bc4ealuups59hba0nde9j60n3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
