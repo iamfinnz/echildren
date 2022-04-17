@@ -1,7 +1,7 @@
 # echildren
 I created this repository to fulfill the #juaraandroid project submission.
 
-This application is a simple application for recording child data at the Puskesmas and calculating weight with the BMI (Body Mass Index) formula.
+This application is a simple application for recording child data at the Posyandu and calculating weight with the BMI (Body Mass Index) formula.
 
 # How to start
 1. Clone this repository
